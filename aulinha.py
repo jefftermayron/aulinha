@@ -6,7 +6,7 @@ while (a == 0):
     print('login em:')
     for contagem in range(1,11):
         print(contagem)
-    if login == 'jeffter' and senha == 'jeffmay2024':
+    if login == 'jeffter' and senha == 'usuario':
         print('Bem vindo', login)
         a = 1
     else:
